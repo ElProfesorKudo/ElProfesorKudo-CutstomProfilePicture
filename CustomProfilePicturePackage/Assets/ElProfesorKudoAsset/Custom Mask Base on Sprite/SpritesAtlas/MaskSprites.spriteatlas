@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaskSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d4bc07fca96e24fcaa05af0250de2c4f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 16b0dec0c695443a68ebdc422d73295e: 21300000
+    - 34eab3e028e054b73b73349711563a6d: 21300000
+    - 412a2b013981f412eb843401d2c72849: 21300000
+    - 4c17c9a2c5b1747a0ae1cf23b2566153: 21300000
+    - 092dd8141451448279edc30aef092ab7: 21300000
+    - 173c936509dcc4a96ae0ec72bcac7480: 21300000
+    - 98ff5fa51c7ae49e69605615ce43c0a1: 21300000
+    - 8952d3b51650d4d628aacbb5c971ef8c: 21300000
+    - 24ba0926845aa4baba5ebe2840f90b49: 21300000
+    - cc6a7246a964545719a357147e0a3fbe: 21300000
+    - 87410c6868fd144699fb14dd4ac19959: 21300000
+    - b9ba90e86695c47fb946ce806dd3c850: 21300000
+    - 212033795f11f436583d3e7afaa6da2c: 21300000
+    - bb506889f660d49b2b162c6a88873d29: 21300000
+    - fa0908d9811d14891aae0d5fe9893e43: 21300000
+    - 257db5e9788a446eeb114b2212e6bf62: 21300000
+    - 1861127a2bfbb44628377ff2eba4664f: 21300000
+    - 519b8b8a8eb754dc1b6358167e12f6ab: 21300000
+    - 236fd4ba41f224a8ebb481bcaa3455de: 21300000
+    - 4aa942fa055504d958625bcd0dec8aaa: 21300000
+    - 0577c27b6af7445319acb22d4c98c634: 21300000
+    - cb2213abcc317405d8b2922ddf89b289: 21300000
+    - 0d9877ab9b0064f4ba0a9c743dfff49a: 21300000
+    - 1ab6be0c9f9b741a189b3cb9351e17bc: 21300000
+    - 6d8cfa4c62f934aa69b8412aabcec2d0: 21300000
+    - 32cd88bc26f7342d79cd7cbe53bb61e8: 21300000
+    - 996ba1cccd41b4c16bbbebf01ee288b6: 21300000
+    - 2720d4fc0ac54450da70a64bff1cb424: 21300000
+    - b23bff0d913624359b22a435040f4999: 21300000
+    - 2961541df099b4493880a80a246444ac: 21300000
+    - 2ee6dddd46a654b55aa212d19b6a423a: 21300000
+    - e283e5fd166904dac9eb7d405e2c8358: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 16b0dec0c695443a68ebdc422d73295e, type: 3}
+  - {fileID: 21300000, guid: 34eab3e028e054b73b73349711563a6d, type: 3}
+  - {fileID: 21300000, guid: 412a2b013981f412eb843401d2c72849, type: 3}
+  - {fileID: 21300000, guid: 4c17c9a2c5b1747a0ae1cf23b2566153, type: 3}
+  - {fileID: 21300000, guid: 092dd8141451448279edc30aef092ab7, type: 3}
+  - {fileID: 21300000, guid: 173c936509dcc4a96ae0ec72bcac7480, type: 3}
+  - {fileID: 21300000, guid: 98ff5fa51c7ae49e69605615ce43c0a1, type: 3}
+  - {fileID: 21300000, guid: 8952d3b51650d4d628aacbb5c971ef8c, type: 3}
+  - {fileID: 21300000, guid: 24ba0926845aa4baba5ebe2840f90b49, type: 3}
+  - {fileID: 21300000, guid: cc6a7246a964545719a357147e0a3fbe, type: 3}
+  - {fileID: 21300000, guid: 87410c6868fd144699fb14dd4ac19959, type: 3}
+  - {fileID: 21300000, guid: b9ba90e86695c47fb946ce806dd3c850, type: 3}
+  - {fileID: 21300000, guid: 212033795f11f436583d3e7afaa6da2c, type: 3}
+  - {fileID: 21300000, guid: bb506889f660d49b2b162c6a88873d29, type: 3}
+  - {fileID: 21300000, guid: fa0908d9811d14891aae0d5fe9893e43, type: 3}
+  - {fileID: 21300000, guid: 257db5e9788a446eeb114b2212e6bf62, type: 3}
+  - {fileID: 21300000, guid: 1861127a2bfbb44628377ff2eba4664f, type: 3}
+  - {fileID: 21300000, guid: 519b8b8a8eb754dc1b6358167e12f6ab, type: 3}
+  - {fileID: 21300000, guid: 236fd4ba41f224a8ebb481bcaa3455de, type: 3}
+  - {fileID: 21300000, guid: 4aa942fa055504d958625bcd0dec8aaa, type: 3}
+  - {fileID: 21300000, guid: 0577c27b6af7445319acb22d4c98c634, type: 3}
+  - {fileID: 21300000, guid: cb2213abcc317405d8b2922ddf89b289, type: 3}
+  - {fileID: 21300000, guid: 0d9877ab9b0064f4ba0a9c743dfff49a, type: 3}
+  - {fileID: 21300000, guid: 1ab6be0c9f9b741a189b3cb9351e17bc, type: 3}
+  - {fileID: 21300000, guid: 6d8cfa4c62f934aa69b8412aabcec2d0, type: 3}
+  - {fileID: 21300000, guid: 32cd88bc26f7342d79cd7cbe53bb61e8, type: 3}
+  - {fileID: 21300000, guid: 996ba1cccd41b4c16bbbebf01ee288b6, type: 3}
+  - {fileID: 21300000, guid: 2720d4fc0ac54450da70a64bff1cb424, type: 3}
+  - {fileID: 21300000, guid: b23bff0d913624359b22a435040f4999, type: 3}
+  - {fileID: 21300000, guid: 2961541df099b4493880a80a246444ac, type: 3}
+  - {fileID: 21300000, guid: 2ee6dddd46a654b55aa212d19b6a423a, type: 3}
+  - {fileID: 21300000, guid: e283e5fd166904dac9eb7d405e2c8358, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cross3WhiteMask
+  - Circle4WhiteMask
+  - Circle7WhiteMask
+  - Circle2WhiteMask
+  - Circle8WhiteMask
+  - Cross1WhiteMask
+  - ParallelogramWhiteMask
+  - Triangle2WhiteMask
+  - Square3WhiteMask
+  - Diamond1WhiteMask
+  - Star3WhiteMask
+  - ArrowUpWhiteMask
+  - Diamond2WhiteMask
+  - HalfCylindeWhiteMask
+  - Circle6WhiteMask
+  - Circle3WhiteMask
+  - CloverWhiteMask
+  - Triangle1WhiteMask
+  - FullCylinderWhiteMask
+  - PentagoneWhiteMask
+  - Star1WhiteMask
+  - QuarterCircleWhiteMask
+  - Circle1WhitheMask
+  - Circle5WhiteMask
+  - SpeechBubbleWhiteMask
+  - RectangleVariantWhiteMask
+  - Square1WhiteMask
+  - HeartsWhiteMask
+  - Star2WhiteMask
+  - StainWhiteMask
+  - Square2WhiteMask
+  - Cross2WhiteMask
+  m_RenderDataMap: {}
+  m_Tag: MaskSprites
+  m_IsVariant: 0
